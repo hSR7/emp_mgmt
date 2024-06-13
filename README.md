@@ -1,2 +1,2 @@
 # emp_mgmt
-rest-services
+just small rest-service example
